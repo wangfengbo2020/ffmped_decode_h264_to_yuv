@@ -7,7 +7,7 @@
 #include "videodecoder.h"
 
 /* H264 source data,  I frame */
-#define  H264_TEST_FILE  "/home/eric/av/test/ffmpeg_codec_test/decodeH264/Iframe4test.h264"
+#define  H264_TEST_FILE  "./Iframe4test.h264"
 
 /* Target yuv data, yuv 420 */
 #define  TARGET_YUV_FILE "./target420.yuv"
